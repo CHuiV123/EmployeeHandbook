@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Constants
-BASE_API_URL = "http://127.0.0.1:7861"
+BASE_API_URL = " https://6c83-175-136-235-145.ngrok-free.app"
 FLOW_ID = "3b598af9-54c9-40f6-a30e-074ba9f07102"
 ENDPOINT = "" # You can set a specific endpoint name in the flow settings
 
